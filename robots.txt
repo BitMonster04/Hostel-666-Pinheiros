@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bitmonster04.github.io/Hostel-666-Pinheiros/sitemap.xml
